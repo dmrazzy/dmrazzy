@@ -1,6 +1,1 @@
-# Razzy DM
-# BeHold
-<!---
-dmrazzy/dmrazzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![d8424456-7128-4488-9cd7-e79c34284fe2](https://github.com/user-attachments/assets/9c58f868-26e8-449b-8938-e3edfbc293bb)
